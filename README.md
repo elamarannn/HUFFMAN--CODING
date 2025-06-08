@@ -25,12 +25,12 @@ print the characters and its huffmancode.
 ## Program:
 
 ``` Python
-NAME:Elamaran.SE
-REG NO:212222230050
+NAME:Elamaran S E
+REG NO:212222230036
 # expt-11-huff man coding
 
 # Step 1: Get the input string
-input_string = "mani sri latha"  # Example input string
+input_string = "elamaran s e"  # Example input string
 # Step 2: Calculate frequency of each character in the input string
 frequency = {}
 for char in input_string:
